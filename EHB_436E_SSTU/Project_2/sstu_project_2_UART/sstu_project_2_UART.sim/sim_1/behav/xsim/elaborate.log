@@ -1,0 +1,19 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot uart_top_tb_behav xil_defaultlib.uart_top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 1 for port 'BR_mode' [C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sim_1/new/uart_top_tb.v:15]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.uart_rx
+Compiling module xil_defaultlib.uart_tx
+Compiling module xil_defaultlib.baud_gen_default
+Compiling module xil_defaultlib.uart_top
+Compiling module xil_defaultlib.uart_top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot uart_top_tb_behav

@@ -1,0 +1,210 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot uart_top_tb_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.uart_top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 1 for port 'BR_mode' [C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sim_1/new/uart_top_tb.v:15]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "uart_top_tb_time_impl.sdf", for root module "uart_top_tb/uut".
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[0]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[0]_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[0]_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[0]_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[12]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[12]_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[12]_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[12]_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[4]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[4]_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[4]_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[4]_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[8]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[8]_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[8]_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count[8]_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[0]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[0]_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[0]_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[0]_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[12]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[12]_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[12]_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[12]_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[4]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[4]_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[4]_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[4]_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[8]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[8]_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[8]_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx[8]_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[10] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[11] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[12] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[12]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[13] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[14] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[15] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[4] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[4]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[5] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[6] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[7] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[8] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[8]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_Rx_reg[9] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[10] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[11] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[12] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[12]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[13] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[14] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[15] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[4] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[4]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[5] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[6] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[7] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[8] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[8]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_count_reg[9] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_limit_Rx[10]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_limit_Rx_reg[10] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/BR_generator/baud_limit_Rx_reg[6] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_in_IBUF[0]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_in_IBUF[1]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_in_IBUF[2]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_in_IBUF[3]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_in_IBUF[4]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_in_IBUF[5]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_in_IBUF[6]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_in_IBUF[7]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_out_OBUF[0]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_out_OBUF[1]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_out_OBUF[2]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_out_OBUF[3]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_out_OBUF[4]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_out_OBUF[5]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_out_OBUF[6]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/data_out_OBUF[7]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/FSM_sequential_state[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/FSM_sequential_state[0]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/FSM_sequential_state[1]_i_1__0 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/FSM_sequential_state[1]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/FSM_sequential_state_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/FSM_sequential_state_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/Rx_data_out[7]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/Rx_data_out_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/Rx_data_out_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/Rx_data_out_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/Rx_data_out_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/Rx_data_out_reg[4] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/Rx_data_out_reg[5] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/Rx_data_out_reg[6] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/Rx_data_out_reg[7] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_index[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_index[1]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_index[2]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_index[3]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_index[3]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_index_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_index_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_index_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_index_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight[1]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight[2]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight[3]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight[3]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight[3]_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/bit_weight_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[1]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[2]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[3]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[3]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[4]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[5]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[6]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[7]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer[7]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer_reg[4] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer_reg[5] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer_reg[6] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/data_buffer_reg[7] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/sample_count[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/sample_count[1]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/sample_count[2]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/sample_count_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/sample_count_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/receiver_1/sample_count_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/FSM_sequential_state[0]_i_1__0 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/FSM_sequential_state[1]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/FSM_sequential_state_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/FSM_sequential_state_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/bit_index[0]_i_1__0 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/bit_index[1]_i_1__0 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/bit_index[2]_i_1__0 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/bit_index[3]_i_1__0 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/bit_index[3]_i_2__0 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/bit_index_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/bit_index_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/bit_index_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/bit_index_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer[7]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer[7]_i_2__0 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer_reg[4] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer_reg[5] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer_reg[6] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /uart_top_tb/uut/transmitter_1/data_buffer_reg[7] in the HDL hierarchy, annotation will be skipped.
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "uart_top_tb_time_impl.sdf", for root module "uart_top_tb/uut".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.CARRY4
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module simprims_ver.x_lut3_mux8
+Compiling module simprims_ver.LUT3
+Compiling module simprims_ver.LUT4
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1
+Compiling module simprims_ver.FDCE_default
+Compiling module simprims_ver.FDRE_default
+Compiling module xil_defaultlib.baud_gen
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.LUT6
+Compiling module xil_defaultlib.uart_rx
+Compiling module simprims_ver.FDPE_default
+Compiling module simprims_ver.MUXF7
+Compiling module xil_defaultlib.uart_tx
+Compiling module xil_defaultlib.uart_top
+Compiling module xil_defaultlib.uart_top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot uart_top_tb_time_impl

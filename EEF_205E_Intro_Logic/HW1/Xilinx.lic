@@ -1,0 +1,42 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Mon Oct 10 07:48:38 UTC 2022.
+#
+# This is license NODELOCKED to HOSTID=7a791944644b;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Mon Oct 10 07:48:38 UTC 2022
+INCREMENT ISE_WebPACK xilinxd 2023.10 permanent uncounted \
+EF27677D9BDE \
+VENDOR_STRING=tekiny20@itu.edu.tr,ISE_WebPACK,software,permanent,_212561582_0_0_054 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=10-Oct-2022 TS_OK
+#
+# This is a permanent license generated on Mon Oct 10 07:48:38 UTC 2022
+INCREMENT ISE_Embedded_Edition xilinxd 2023.10 permanent uncounted \
+388D537BC29F \
+VENDOR_STRING=tekiny20@itu.edu.tr,ISE_Embedded_Edition,software,permanent,_212561582_0_0_509 \
+HOSTID=7a791944644b ISSUER="Xilinx Inc" START=10-Oct-2022 \
+TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2023.10 8CE2679ADB3D COMPONENTS="SDK \
+WebPACK XC7Z010 XC7Z030 xps_tdp XC7Z020 PlanAhead ChipscopePro \
+ChipScopePro_SIOTK HLS" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_Embedded_Edition xilinxd 2023.10 B682D80D641A \
+COMPONENTS="ChipScopePro_SIOTK ChipscopePro ISE XPS ISIM \
+PlanAhead SDK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------

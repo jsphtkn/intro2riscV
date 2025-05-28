@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sim_1/new/baud_gen_tb.v,1736676194,verilog,,,,baud_gen_tb,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sim_1/new/uart_rx_tb.v,1736844043,verilog,,,,uart_rx_tb,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sim_1/new/uart_top_tb.v,1736808860,verilog,,,,uart_top_tb,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sim_1/new/uart_tx_tb.v,1736695049,verilog,,,,uart_tx_tb,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sources_1/new/baud_gen.v,1736703348,verilog,,C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sources_1/new/uart_rx.v,,baud_gen,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sources_1/new/uart_rx.v,1736809019,verilog,,C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sim_1/new/uart_rx_tb.v,,uart_rx,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sources_1/new/uart_top.v,1736776846,verilog,,C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sources_1/new/uart_tx.v,,uart_top,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sources_1/new/uart_tx.v,1736800481,verilog,,C:/Users/jsphtkn/Vivado Projects/sstu_project_2_UART/sstu_project_2_UART.srcs/sim_1/new/uart_top_tb.v,,uart_tx,,,,,,,,

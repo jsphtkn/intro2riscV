@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.srcs/sim_1/new/top_tb.v,1737711761,verilog,,,,top_tb,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.srcs/sources_1/new/alu.v,1737675386,verilog,,C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.srcs/sources_1/new/cu.v,,add8;alu;and8;criclerShift;mux2;mux8;xor8;zeroComparator,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.srcs/sources_1/new/cu.v,1737813193,verilog,,C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.srcs/sources_1/new/rb.v,,cu,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.srcs/sources_1/new/rb.v,1737680688,verilog,,C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.srcs/sources_1/new/top.v,,decoder;mux88;mux8_16;rb;regfile;register,,,,,,,,
+C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.srcs/sources_1/new/top.v,1737677251,verilog,,C:/Users/jsphtkn/Vivado Projects/500T_2/500T_2.srcs/sim_1/new/top_tb.v,,top,,,,,,,,

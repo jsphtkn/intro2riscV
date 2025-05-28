@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../sstu_project_2_UART.srcs/sources_1/new/baud_gen.v" \
+"../../../../sstu_project_2_UART.srcs/sources_1/new/uart_rx.v" \
+"../../../../sstu_project_2_UART.srcs/sources_1/new/uart_top.v" \
+"../../../../sstu_project_2_UART.srcs/sources_1/new/uart_tx.v" \
+"../../../../sstu_project_2_UART.srcs/sim_1/new/uart_top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
