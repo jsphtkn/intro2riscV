@@ -9,7 +9,7 @@
   - This will teach you the basics of Combinational and Sequential Logic design and general digital design methodology. 
   - By completely understanding the projects, you become completely capable of writing any Verilog code.
   - FSM (Finite State Machine)
-  - Learn the simulation part carefully and try self checking tesbenches 
+  - Learn the simulation part carefully and try self-checking tesbenches 
 
 2- EHB_425E: Learn basics of RISC-V
   - Firstly, practice ASM. In the presentations, you can find the general microprocessor methodology and design principles (Datapath - Control). Deep dive into RISC-V. Recommended to go by:
@@ -24,4 +24,4 @@
     - HW6: Control
     - HW7: Pipeline
     - HW8: Hazards
-    - NOTE: To begin with the simple projects HW7-HW8 are not required. They are advance optimization that almost all of the RISC-V designs inclueded. However, to begin with basic understandings, it is not required primarily. But don't forget that without completing them, it is not possible to understand the RISC-V compeletely.
+    - NOTE: To begin with, the simple projects HW7-HW8 are not required. They are advance optimizations that almost all of the RISC-V designs uses. However, to begin with basic understandings, it is not required primarily. But don't forget that without completing them, it is not possible to understand the RISC-V compeletely.
