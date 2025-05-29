@@ -11,7 +11,7 @@
   - FSM (Finite State Machine)
   - Learn the simulation part carefully and try self-checking tesbenches 
 
-2- EHB_425E: Learn basics of RISC-V
+3- EHB_425E: Learn basics of RISC-V
   - Firstly, practice ASM. In the presentations, you can find the general microprocessor methodology and design principles (Datapath - Control). Deep dive into RISC-V. Recommended to go by:
     - Memory structures
     - ISA (Instruction Set Architecture) and the general knowledge about different ISAs of RISC-V like RV32I, RV32IM, RV32F...
